@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raiza Social</string>
+    <string name="hello_Community">Welcome to Raiza social</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Signup_Details"> Your SignUp Details</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="Signin">Sign In</string>
+    <string name="btkSignIn">Back to Sign In</string>
+    <string name="Congrats">Congratulations Successfully Registered</string>
+    <string name="etEmail">Email</string>
+    <string name="etUserName">Display Name</string>
+    <string name="etPass">Password</string>
+    <string name="etPassagn">ReEnter Password</string>
+    <string name="etmale">Male</string>
+    <string name="etdob">Date of birth</string>
+    <string name="etphone_no">Phone Number</string>
+    <string name="etfemale">Female</string>
+    <string name="etGender">Gender</string>
+    <string name="logoDesc">Community</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="Friend_username">Friend Username</string>
+    <string name="newfriendUsername">Enter New UserName</string>
+    <string name="btnadd">Add</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="friendUsername">Add Friend UserName </string>
+    <string name="no_friend">No Friends</string>
+    <string name="desc">Contact Image</string>
+    <string name="local_service_started">App service started</string>
+    <string name="local_service_stopped">App service stopped</string>
+    <string name="local_service_connected">local_service_connected</string>
+    <string name="new_friend_request_exist">New friend request</string>
+    <string name="approve_selected_friends">Approve Selecteds and Discard Others</string>
+    <string name="not_connected_to_network">There is no available connected network</string>
+    <string name="message_cannot_be_sent">Message was not been able to sent</string>
+    <string name="add_new_friend">Add new friend</string>
+    <string name="exit_application">Exit</string>
+    <string name="OK">OK</string>
+    <string name="sign_up">Sign up</string>
+    <string name="Messages:">Enter Event Detials</string>
+    <string name="Send">Post</string>
+    <string name="event_history">Event History</string>
+    <string name="fill_both_email_and_password">Please fill both email and password</string>
+	<string name="make_sure_email_and_password_correct">Please make sure that
+	your Email and password correct</string>
+    <string name="fill_email_field">Email field required</string>
+    <string name="fill_display_field">Display field required</string>
+    <string name="fill_password_field">Password field required</string>
+    <string name="fill_repassword_field">Re Enter Password field required</string>
+    <string name="signup_fill_all_fields">Please fill all fields</string>
+    <string name="signup_type_same_password_in_password_fields">
+        Type same password in password fields
+    </string>
+    <string name="signup_failed">Sign up failed because of unknown reason</string>
+    <string name="success">Success!</string>
+    <string name="signup_successfull">
+        Your registration is completed successfully,\n you can login now
+    </string>
+    <string name="username_and_password_length_short">
+        Username and password length must be at least 5
+    </string>
+    <string name="request_sent">Your request has been sent</string>
+    <string name="type_friend_username">Please type your friend username</string>
+    <string name="loginError">Error in Login</string>
+    <string name="title">Raiza Organizer</string>
+    <string name="btn_send">Share</string>
+    <string name="etMessage">Enter Event Details</string>
+    <string name="author_name1">Raiza</string>
+    <string name="author_name2">&#169; 2017 Raiza</string>
+    <string name="author_name3">By RT</string>
+    <string name="event_details">Describe Event Details</string>
+    <string name="display_already_in_use">Display name already in use</string>
+    <string name="email_already_in_use">Display name already in use</string>
+    <string name="registration_failed">Registration Failed</string>
+    <string name="registration_failed_reason">Registration failed due to various reasons</string>
+    <string name="server_address">http://127.0.0.1</string>
+    <string name="error">Error</string>
+    <string name="server_error">Something wrong with server</string>
+    <string name="registering">Registration: Please Wait</string>
+    <string name="main_view">Main view</string>
+    <string name="tables">com.project.raizasocial.sqlite.models.User,
+    com.project.raizasocial.sqlite.models.Friend,
+    com.project.raizasocial.sqlite.models.Geofence,
+    com.project.raizasocial.sqlite.models.Event,
+    com.project.raizasocial.sqlite.models.EventAttendance,
+    com.project.raizasocial.sqlite.models.Location,
+    com.project.raizasocial.sqlite.models.PhoneData
+    </string>
+    <string name="eteventname"> Event Title Name </string>
+    <string name="eteventcreator"> Display Name</string>
+    <string name="etpersonfeelings"> Reason--Happy sad alone etc</string>
+    <string name="etstatus">Status</string>
+
+    <style name="DefaultButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#979797</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+    <string name="title_activity_home">App Home</string>
+    <string name="main_list_view" />
+    <string name="title_activity_event_list">EventList</string>
+    <string name="title_activity_location">Location</string>
+    <string name="title_activity_friend_list">FriendList</string>
+    <string name="title_activity_event_attendance">EventAttendance</string>
+    <string name="title_activity_event_creation">EventCreation</string>
+    <string name="friend_image">Friend image</string>
+    <string name="title_activity_friend_details">FriendDetailsActivity</string>
+    <string name="email">Email</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="PHONE">PHONE</string>
+    <string name="date_of_birth">DATE OF BIRTH</string>
+    <string name="DOB">DATE OF BIRTH</string>
+    <string name="displayName">Display Name</string>
+    <string name="btnCreateEvent">Create Event</string>
+    <string name="end_time">To: </string>
+    <string name="start_time">From: </string>
+    <string name="event_details_link">Event Details</string>
+    <string name="creator_name">Created by: </string>
+    <string name="you">(you)</string>
+    <string name="title_activity_event_details">EventDetailsActivity</string>
+    <string name="friend_list">Friend List</string>
+    <string name="event_description">Event Description</string>
+    <string name="created_by">Created By</string>
+    <string name="time">Time</string>
+    <string name="starting_at">Starting at:</string>
+    <string name="location">Location</string>
+    <string name="creator">Creator</string>
+    <string name="ending_at">Ending at:</string>
+    <string name="personal_feeling">Personal Feeling:</string>
+    <string name="event_search">event search</string>
+    <string name="friend_search">Friend search</string>
+    <string name="create_event">Create Event</string>
+    <string name="refresh_event_list">refresh event list</string>
+    <string name="refresh_friend_list">refresh friend list</string>
+    <string name="ending_time">End Time</string>
+    <string name="ending_date">End Date</string>
+    <string name="starting_time">Start Time</string>
+    <string name="starting_date">Start Date</string>
+    <string name="logotu">Logout</string>
+    <string name="attendees">Attendees</string>
+    <string name="location_service">Location Service</string>
+    <string name="general_settings">General Settings</string>
+    <string name="data_sync_freq">DataSyncFrequency</string>
+</resources>

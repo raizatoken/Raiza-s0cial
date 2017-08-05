@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/friend_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="@string/friend_search"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/refresh_friend_list"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/refresh_friend_list"
+        app:showAsAction="ifRoom"/>
+</menu>

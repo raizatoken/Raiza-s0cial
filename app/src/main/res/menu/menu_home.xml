@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.project.raizasocial.Activities.HomeActivity">
+
+    <item android:id="@+id/logout"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/ic_action_logout"
+        android:orderInCategory="100"
+        android:title="@string/logotu"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+</menu>
