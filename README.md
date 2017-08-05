@@ -3,7 +3,7 @@
 
 ## App specifications
 
-**Minimum**: [Android Jelly Bean](http://en.wikipedia.org/wiki/Android_Jelly_Bean)(API level 17)
+**Minimum**:Android Api 21
 
 
 ## Installation
